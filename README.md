@@ -13,113 +13,147 @@
 - 📫 How to reach me **mk772542@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-    <a href="https://codepen.io/https://codepen.io/hellotechmanish" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg"
-            alt="https://codepen.io/hellotechmanish" height="30" width="40" /></a>
-    <a href="https://twitter.com/https://x.com/kumarmanish70" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-            alt="https://x.com/kumarmanish70" height="30" width="40" /></a>
-    <a href="https://linkedin.com/in/https://www.linkedin.com/in/kumarmanish70/" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-            alt="https://www.linkedin.com/in/kumarmanish70/" height="30" width="40" /></a>
-    <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/28619726/manish-kumar" target="blank"><img
-            align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg"
-            alt="https://stackoverflow.com/users/28619726/manish-kumar" height="30" width="40" /></a>
-    <a href="https://fb.com/https://www.facebook.com/kumarmanish70?mibextid=zbwkwl" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-            alt="https://www.facebook.com/kumarmanish70?mibextid=zbwkwl" height="30" width="40" /></a>
-    <a href="https://instagram.com/https://www.instagram.com/kumar_manish70?igsh=ntnpahn2egpnoxp2" target="blank"><img
-            align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-            alt="https://www.instagram.com/kumar_manish70?igsh=ntnpahn2egpnoxp2" height="30" width="40" /></a>
-    <a href="https://www.youtube.com/c/https://www.youtube.com/@techmanish70" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"
-            alt="https://www.youtube.com/@techmanish70" height="30" width="40" /></a>
-    <a href="https://www.codechef.com/users/https://www.codechef.com/users/kumar_manish70" target="blank"><img
-            align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg"
-            alt="https://www.codechef.com/users/kumar_manish70" height="30" width="40" /></a>
-    <a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/mk772542" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
-            alt="https://www.hackerrank.com/profile/mk772542" height="30" width="40" /></a>
-    <a href="https://www.leetcode.com/https://leetcode.com/u/kumar_manish70/" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
-            alt="https://leetcode.com/u/kumar_manish70/" height="30" width="40" /></a>
-    <a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/mk772gnzs/" target="blank"><img
-            align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg"
-            alt="https://www.geeksforgeeks.org/user/mk772gnzs/" height="30" width="40" /></a>
-    <a href="https://discord.gg/https://discord.com/channels/@me" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg"
-            alt="https://discord.com/channels/@me" height="30" width="40" /></a>
-</p>
+<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
+    <a href="https://leetcode.com/u/kumar_manish70/" target="_blank">
+        <img src="https://img.shields.io/badge/LeetCode-%2300C853.svg?logo=leetcode&logoColor=white" alt="LeetCode">
+    </a>
+    <a href="https://instagram.com/kumar_manish70" target="_blank">
+        <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram">
+    </a>
+    <a href="https://linkedin.com/in/kumarmanish70" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
+    <a href="https://stackoverflow.com/users/28619726/manish-kumar" target="_blank">
+        <img src="https://img.shields.io/badge/StackOverflow-%23F58025.svg?logo=stackoverflow&logoColor=white"
+            alt="Stack Overflow">
+    </a>
+    <a href="https://twitter.com/kumarmanish70" target="_blank">
+        <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" alt="Twitter">
+    </a>
+    <a href="https://youtube.com/@techmanish70" target="_blank">
+        <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" alt="YouTube">
+    </a>
+    <a href="https://facebook.com/kumarmanish70" target="_blank">
+        <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook">
+    </a>
+    <a href="https://www.geeksforgeeks.org/user/mk772gnzs/" target="_blank">
+        <img src="https://img.shields.io/badge/GeeksforGeeks-%2300C853.svg?logo=geeksforgeeks&logoColor=white"
+            alt="GeeksforGeeks">
+    </a>
+    <!-- <a href="https://www.codechef.com/users/kumar_manish70" target="_blank">
+        <img src="https://img.shields.io/badge/CodeChef-%2348A9A6.svg?logo=codechef&logoColor=white" alt="CodeChef">
+    </a> -->
+    <a href="https://discord.com/channels/@me" target="_blank">
+        <img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="Discord">
+    </a>
+</div>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-            <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-            alt="bootstrap" width="40" height="40" /> </a> 
-            <a href="https://www.cprogramming.com/" target="_blank"
-            rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
-            alt="c" width="40" height="40" /> </a> 
-            <a href="https://www.w3schools.com/cpp/" target="_blank"
-            rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
-            alt="cplusplus" width="40" height="40" /> </a> 
-            <a href="https://www.w3schools.com/css/" target="_blank"
-            rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-            alt="css3" width="40" height="40" /> </a> 
-            <a href="https://www.djangoproject.com/" target="_blank"
-            rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40"
-            height="40" /> </a> 
-            <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
-            alt="express" width="40" height="40" /> </a> 
-            <a href="https://www.figma.com/" target="_blank"
-            rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40"
-            height="40" /> </a> 
-            <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img
-            src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40"
-            height="40" /> </a> 
-            <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img
-            src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /> </a> <a
-            href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-            alt="html5" width="40" height="40" /> </a> 
-            <a href="https://www.adobe.com/in/products/illustrator.html"
-            target="_blank" rel="noreferrer"> <img
-            src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator"
-            width="40" height="40" /> </a> 
-            <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-            target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-            alt="javascript" width="40" height="40" /> </a> 
-            <a href="https://www.mongodb.com/" target="_blank"
-             rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
-            alt="mongodb" width="40" height="40" /> </a> 
-            <a href="https://www.mysql.com/" target="_blank"
-            rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-            alt="mysql" width="40" height="40" /> </a> 
-            <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-            alt="nodejs" width="40" height="40" /> </a> 
-            <a href="https://postman.com" target="_blank" rel="noreferrer">
-            <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40"
-            height="40" /> </a> 
-            <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-            alt="python" width="40" height="40" /> </a> 
-            <a href="https://www.typescriptlang.org/" target="_blank"
-            rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-            alt="typescript" width="40" height="40" /> </a>
-         </p>
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 20px;">
+    <!-- Frontend Section -->
+    <div style="flex: 1; text-align: center;">
+        <h3>Frontend</h3>
+        <div>
+            <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank">
+                <img style="margin: 10px"
+                    src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5"
+                    height="50" />
+            </a>
+            <a href="https://www.w3schools.com/css/" target="_blank">
+                <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg"
+                    alt="CSS3" height="50" />
+            </a>
+            <a href="https://www.javascript.com/" target="_blank">
+                <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg"
+                    alt="JavaScript" height="50" />
+            </a>
+            <a href="https://reactjs.org/" target="_blank">
+                <img style="margin: 10px"
+                    src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React"
+                    height="50" />
+            </a>
+            <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank">
+                <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg"
+                    alt="Bootstrap" height="50" />
+            </a>
+            <a href="https://www.tailwindcss.com/" target="_blank">
+                <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg"
+                    alt="Tailwind CSS" height="50" />
+            </a>
+            <a href="https://www.apachefriends.org/" target="_blank">
+                <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP"
+                    height="50" />
+            </a>
+        </div>
+    </div>
+    <!-- Backend Section -->
+    <div style="flex: 1; text-align: center;">
+        <h3>Backend</h3>
+        <div>
+            <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
+                <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C"
+                    height="50" />
+            </a>
+            <a href="https://www.cplusplus.com/" target="_blank">
+                <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg"
+                    alt="C++" height="50" />
+            </a>
+            <a href="https://nodejs.org/" target="_blank">
+                <img style="margin: 10px" src="https://www.svgrepo.com/show/439238/nodejs.svg" alt="Node.js"
+                    height="50" />
+            </a>
+            <a href="https://expressjs.com/" target="_blank">
+                <img style="margin: 10px" src="https://img.icons8.com/?size=100&id=PZQVBAxaueDJ&format=png&color=000000"
+                    alt="Express.js" height="50" />
+            </a>
+                <a href="https://www.mysql.com/" target="_blank">
+               <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />
+                </a>
+            <a href="https://www.mongodb.com/" target="_blank">
+                <img style="margin: 10px"
+                    src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB"height="50" />
+               </a>
+            <a href="https://www.python.org/" target="_blank">
+                <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg"
+                    alt="Python" height="50" />
+            </a>
+            <a href="https://www.djangoproject.com/" target="_blank">
+                <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg"
+                    alt="Django" height="50" />
+            </a>
+        </div>
+    </div>
+</div>
+<!-- Tools Section -->
+<div style="flex: 1; text-align: center;">
+    <h3>Tools</h3>
+    <div>
+        <a href="https://www.visualstudio.com/" target="_blank">
+            <img style="margin: 10px" src="https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000"
+                alt="Visual Studio" height="50" />
+        </a>
+        <!-- <a href="https://www.docker.com/" target="_blank">
+            <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg"
+                alt="Docker" height="50" />
+        </a> -->
+        <a href="https://www.canva.com/" target="_blank">
+            <img style="margin: 10px" src="https://img.icons8.com/?size=100&id=iWw83PVcBpLw&format=png&color=000000"
+                alt="Canva" height="50" />
+        </a>
+        <a href="https://www.postman.com/" target="_blank">
+            <img style="margin: 10px" src="https://www.svgrepo.com/show/354202/postman-icon.svg" alt="Postman"
+                height="50" />
+        </a>
+        <a href="https://git-scm.com/" target="_blank">
+            <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git"
+                height="50" />
+        </a>
+    </div>
+</div>
+</div>
 
-<p>&nbsp;<img align="center"
+
+<p><img align="center"
         src="https://github-readme-stats.vercel.app/api?username=hellotechmanish&show_icons=true&locale=en"
         alt="hellotechmanish" /></p>
 
