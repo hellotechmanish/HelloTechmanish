@@ -132,14 +132,6 @@
             <img style="margin: 10px" src="https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000"
                 alt="Visual Studio" height="50" />
         </a>
-        <!-- <a href="https://www.docker.com/" target="_blank">
-            <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg"
-                alt="Docker" height="50" />
-        </a> -->
-        <a href="https://www.canva.com/" target="_blank">
-            <img style="margin: 10px" src="https://img.icons8.com/?size=100&id=iWw83PVcBpLw&format=png&color=000000"
-                alt="Canva" height="50" />
-        </a>
         <a href="https://www.postman.com/" target="_blank">
             <img style="margin: 10px" src="https://www.svgrepo.com/show/354202/postman-icon.svg" alt="Postman"
                 height="50" />
@@ -148,20 +140,26 @@
             <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git"
                 height="50" />
         </a>
+        <a href="https://www.canva.com/" target="_blank">
+            <img style="margin: 10px" src="https://img.icons8.com/?size=100&id=iWw83PVcBpLw&format=png&color=000000"
+                alt="Canva" height="50" />
+        </a>
+        <!-- <a href="https://www.docker.com/" target="_blank">
+            <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg"
+                alt="Docker" height="50" />
+        </a> -->
     </div>
 </div>
 </div>
 <br>
 
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hellotechmanish&"
+        alt="hellotechmanish" /></p>
+
 <p><img align="center"
         src="https://github-readme-stats.vercel.app/api?username=hellotechmanish&show_icons=true&locale=en"
         alt="hellotechmanish" /></p>
-
 <p><img align="center"
         src="https://github-readme-stats.vercel.app/api/top-langs?username=hellotechmanish&show_icons=true&locale=en&layout=compact"
-        alt="hellotechmanish" /></p>
-
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hellotechmanish&"
         alt="hellotechmanish" /></p>
