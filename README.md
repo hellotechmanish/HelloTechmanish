@@ -14,31 +14,31 @@
 
 <h3 align="left">Connect with me:</h3>
 <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
+    <a href="https://linkedin.com/in/kumarmanish70" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
     <a href="https://leetcode.com/u/kumar_manish70/" target="_blank">
         <img src="https://img.shields.io/badge/LeetCode-%2300C853.svg?logo=leetcode&logoColor=white" alt="LeetCode">
     </a>
-    <a href="https://instagram.com/kumar_manish70" target="_blank">
-        <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram">
-    </a>
-    <a href="https://linkedin.com/in/kumarmanish70" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
+    <a href="https://www.geeksforgeeks.org/user/mk772gnzs/" target="_blank">
+        <img src="https://img.shields.io/badge/GeeksforGeeks-%2300C853.svg?logo=geeksforgeeks&logoColor=white"
+            alt="GeeksforGeeks">
     </a>
     <a href="https://stackoverflow.com/users/28619726/manish-kumar" target="_blank">
         <img src="https://img.shields.io/badge/StackOverflow-%23F58025.svg?logo=stackoverflow&logoColor=white"
             alt="Stack Overflow">
+    </a>
+    <a href="https://instagram.com/kumar_manish70" target="_blank">
+        <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram">
+    </a>
+    <a href="https://facebook.com/kumarmanish70" target="_blank">
+        <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook">
     </a>
     <a href="https://twitter.com/kumarmanish70" target="_blank">
         <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" alt="Twitter">
     </a>
     <a href="https://youtube.com/@techmanish70" target="_blank">
         <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" alt="YouTube">
-    </a>
-    <a href="https://facebook.com/kumarmanish70" target="_blank">
-        <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook">
-    </a>
-    <a href="https://www.geeksforgeeks.org/user/mk772gnzs/" target="_blank">
-        <img src="https://img.shields.io/badge/GeeksforGeeks-%2300C853.svg?logo=geeksforgeeks&logoColor=white"
-            alt="GeeksforGeeks">
     </a>
     <!-- <a href="https://www.codechef.com/users/kumar_manish70" target="_blank">
         <img src="https://img.shields.io/badge/CodeChef-%2348A9A6.svg?logo=codechef&logoColor=white" alt="CodeChef">
