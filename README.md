@@ -40,9 +40,9 @@
     <a href="https://youtube.com/@techmanish70" target="_blank">
         <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" alt="YouTube">
     </a>
-    <!-- <a href="https://www.codechef.com/users/kumar_manish70" target="_blank">
+    <a href="https://www.codechef.com/users/kumar_manish70" target="_blank">
         <img src="https://img.shields.io/badge/CodeChef-%2348A9A6.svg?logo=codechef&logoColor=white" alt="CodeChef">
-    </a> -->
+    </a> 
     <a href="https://discord.com/channels/@me" target="_blank">
         <img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="Discord">
     </a>
