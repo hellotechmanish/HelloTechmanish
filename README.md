@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **backend**
 
-- 📫 How to connect
+- 📫 How to connect with me
 - **mk772542@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
