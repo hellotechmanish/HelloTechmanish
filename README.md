@@ -1,15 +1,15 @@
 # HelloTechmanish
+<h1 align="center">👋 Hey, I'm Manish Kumar</h1>
+<h3 align="center">🚀 Full Stack Developer | ☁️ DevOps & Cloud Enthusiast | ⚡ Automation Lover</h3>
 
-<h1 align="center">Hi 👋, I'm Manish Kumar</h1>
-<h3 align="center">A passionate Full Stack Developer & DevOps Enthusiast</h3>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=hellotechmanish&label=Profile%20views&color=0e75b6&style=flat" alt="hellotechmanish" />
 </p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Backend+Specialist;DevOps+Enthusiast;Automation+Expert" alt="Typing SVG" />
-</p>
+</p> -->
 
 ---
 
@@ -211,3 +211,4 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=hellotechmanish&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="hellotechmanish" />
 </p>
+
